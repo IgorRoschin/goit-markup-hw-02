@@ -1,0 +1,258 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Logo */
+.logo-black {
+    color: black;
+}
+
+.logo-white {
+    color: #FFFFFF;
+}
+
+
+.logo {
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1, 19;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+/* Главная страница */
+
+.list {
+    list-style: none;
+}
+
+/* Title */
+
+
+.buttom-nav {
+    font-size: 16px;
+}
+
+.header-buttom {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+    text-decoration: none
+}
+
+.contacts-link {
+    color: #757575;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-decoration: none
+}
+
+.adress-link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    text-decoration: none
+}
+
+.header-buttom:hover {
+    color: #2196F3;
+}
+.contacts-link:hover {
+    color: #2196F3
+}
+
+.adress-link {
+    font-style: normal;
+}
+
+.contacts-link {
+    font-style: normal;
+}
+
+/* Hero block */
+
+.hero-photo {
+    background: #2F303A;
+}
+
+.btn {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+    background: #2196F3;
+    cursor: pointer
+}
+
+.head-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 0.73;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+/* Text Block */
+
+.text {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 0.90;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+
+.text-title {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 0.60px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+/* About WebStudio */
+
+.title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 0.90;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+/* Team */
+
+.staff {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 0.90;   
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.team-background {
+    background: #F5F4FA;
+}
+
+.staff-profil {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+/* footer block */
+
+.footer-logo {
+    color: #2196F3;
+}
+
+.footer-background {
+    background: #2F303A;
+}
+
+/* Страница портфолио */
+
+/* Title */
+
+/* Section nav bottoms */
+
+.buttom-list {
+
+}
+
+.buttom-nav {
+    font-weight: 500;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+    background: #F5F4FA;
+    cursor: pointer
+}
+
+.buttom-nav:hover {
+    color: #2196F3
+}
+
+
+/* Photo menu */
+
+.title-name {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+
+.title-product {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+
+
+/* Footer block */
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: ;
+    src:url(../fonts/)
+}
+
+
+
+.footer-logo {
+    color: #2196F3;
+}
+
+
+
+.text-default {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+}
+
+
+
+
