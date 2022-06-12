@@ -27,6 +27,7 @@
 
 .list {
     list-style: none;
+    display: flex;
 }
 
 /* Title */
@@ -43,7 +44,8 @@
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: #212121;
-    text-decoration: none
+    text-decoration: none;
+    margin-left: 50px;
 }
 
 .button {
@@ -58,6 +60,12 @@
   border-radius: 4px;
   cursor: pointer;
   font-family: inherit;
+  width: 200px;
+  height: 50px;
+  border: none;
+  margin: 0 auto;
+  display: block;
+
 }
 
 .contacts-link {
@@ -67,6 +75,7 @@
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   font-style: normal;
+  display: flex;
 }
 
 .contacts-link:hover {
